@@ -8,4 +8,4 @@ You can also look at  and the  of beta release notes.
 If you are upgrading existing projects from an earlier version to 5.6, read the  for information about how your project may be affected.
 
 [InstallingUnity](InstallingUnity.md)
-[InstallingUnity](InstallingUnity)
+[InstallingUnity](InstallingUnity.md)
